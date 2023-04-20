@@ -7,8 +7,9 @@ $ git clone https://github.com/MarcusV1712/Ferramentas_S.I_Linux.git
 
 $ cd Ferramentas_S.I_Linux
 
-$ chmod +x Ferramentas.sh FerramentasGo.sh FerramentasGoUbunto.sh 
-
+$ chmod +x Ferramentas.sh   
+$ chmod +x FerramentasGo.sh
+$ chmod +x FerramentasGoUbunto.sh
 
 Escolha qual você quer usar e de um bash
 
