@@ -3,13 +3,17 @@
 
  Instalação:
 
-$git clone https://github.com/KingofSpades-Hacker/Ferramentas-que-Utilizo.git
+$ git clone https://github.com/MarcusV1712/Ferramentas_S.I_Linux.git
 
-$cd Ferramentas-que-Utilizo
+$ cd Ferramentas_S.I_Linux
 
-$chmod +x ferramentas.sh
+$ chmod +x Ferramentas.sh Ferramentas Go.sh Ferramentas Go - Ubunto.sh 
 
-$bash ferramentas.sh
+
+Escolha qual você quer usar e de um bash
+
+
+$ bash (nome do arquivo))
 
 
 Instale manualmente o Ngrok e o Openvpn
