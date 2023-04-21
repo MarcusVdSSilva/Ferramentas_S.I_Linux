@@ -3,13 +3,13 @@ echo -e "\e[1;92m Agora instalndo o goland e todas ferramentas que usarei em go"
 sudo apt-get install golang
 cd go/bin
 
-go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
-go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
-go install github.com/OJ/gobuster/v3@latest
-go install github.com/003random/getJS@latest
-go install github.com/lc/gau/v2/cmd/gau@latest
-go install github.com/Emoe/kxss@latest
-go install github.com/tomnomnom/gf@latest
+go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+go get -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+go get github.com/OJ/gobuster/v3@latest
+go get github.com/003random/getJS@latest
+go get github.com/lc/gau/v2/cmd/gau@latest
+go get github.com/Emoe/kxss@latest
+go get github.com/tomnomnom/gf@latest
 
 
 sudo apt-cache search chromium
